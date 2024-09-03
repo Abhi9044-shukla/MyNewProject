@@ -1,0 +1,97 @@
+# Node.js dependencies
+/node_modules/
+/package-lock.json
+/yarn.lock
+
+# React Native bundler
+/dist/
+/ios/Pods/
+/ios/Podfile.lock
+/android/.gradle/
+/android/app/build/
+/android/.idea/
+
+# macOS files
+.DS_Store
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+*.xcodeproj/project.xcworkspace/
+ios/Pods/
+ios/Podfile.lock
+
+# Android/IntelliJ
+*.iml
+.gradle
+/local.properties
+/app/build/
+
+# VS Code
+.vscode/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Watchman
+.watchmanconfig
+
+# Build files
+__tests__/index.android.js
+__tests__/index.ios.js
+# Uncomment the next line if you don't want to check in source maps
+#*.map
+
+# Android Bundles
+android/app/build/outputs/
+
+# iOS Build
+ios/build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/test_output/screenshots
+
+# Buck
+buck-out/
+\.buckd/
+*.keystore
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+.cxx/
+jniLibs/
+
+# Miscellaneous
+/.expo/
+/*.pyc
+/*.pyo
+/.idea/
+/.cquery_cached_binaries
+
+# Temp files
+*.swp
+*~
+
+# CocoaPods
+ios/Pods/
+
+# AppCenter
+appcenter-pre-build.sh
+appcenter-post-clone.sh
+
+# Detox
+artifacts/
+ios/Detox.framework
+
+# React Native
+*.log
+.expo
