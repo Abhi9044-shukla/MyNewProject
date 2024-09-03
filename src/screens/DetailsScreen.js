@@ -1,4 +1,3 @@
-// src/screens/DetailsScreen.js
 import React from 'react';
 import { SafeAreaView, View, Text, Button, StyleSheet } from 'react-native';
 

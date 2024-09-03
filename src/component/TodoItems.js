@@ -1,5 +1,3 @@
-// src/components/TodoItem.js
-
 import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, Dimensions } from 'react-native';
 import CheckBox from '@react-native-community/checkbox';
